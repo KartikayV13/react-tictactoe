@@ -1,3 +1,7 @@
+Tic-Tac-Toe Game with React
+
+This is a simple Tic-Tac-Toe game built with React. Two players can take turns playing the classic Tic-Tac-Toe game in the browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -38,6 +42,16 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+---HOW TO PLAY THIS GAME 
+
+1. Two players take turns marking spaces on a 3x3 grid.
+2. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins.
+3. If all spaces are filled without a winner, the game ends in a draw.
+
+Technologies Used
+--> React.js
+--> [Add any additional libraries, such as React Hooks, if used]
 
 ## Learn More
 
